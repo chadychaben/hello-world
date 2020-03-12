@@ -1,2 +1,3 @@
 # hello-world
-My first Repository
+Hi Humans 
+i am coming , i will be changing the world
